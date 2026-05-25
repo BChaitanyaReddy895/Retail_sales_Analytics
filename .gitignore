@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+venv/
+.env
+*.pyc
+*.sqlite3
+*.db
+logs/*.log
+data/processed/*.csv
+data/raw/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
